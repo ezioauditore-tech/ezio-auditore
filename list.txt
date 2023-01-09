@@ -1,0 +1,7 @@
+2.jpg
+carimage.jpg
+
+carimage.jpg
+
+
+img size,Class,accuracy
